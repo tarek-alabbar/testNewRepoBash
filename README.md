@@ -1,2 +1,2 @@
-#My App
+#MyApp
 Hello this is a new file.
